@@ -1,5 +1,11 @@
 
 # Apache Hadoop 3.3.6 – Local Mode Setup in GitHub Codespaces
+![Hadoop](https://img.shields.io/badge/Hadoop-3.3.6-ffcc00?style=for-the-badge&logo=apache&logoColor=black)
+![Java](https://img.shields.io/badge/Java-OpenJDK%2011-red?style=for-the-badge&logo=openjdk&logoColor=white)
+![Codespaces](https://img.shields.io/badge/GitHub-Codespaces-blue?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Environment-Linux-black?style=for-the-badge&logo=linux)
+![Mode](https://img.shields.io/badge/Mode-Local%20(Single--Node)-brightgreen?style=for-the-badge)
+![MapReduce](https://img.shields.io/badge/MapReduce-WordCount-orange?style=for-the-badge)
 
 This project demonstrates how to **set up and run Apache Hadoop (v3.3.6)** in a **GitHub Codespaces environment** using **local (single-node) mode**.  
 It includes Hadoop installation, configuration, basic file management, and execution of the **WordCount MapReduce** program — all within a lightweight Linux container.
@@ -125,6 +131,3 @@ This removes previous files and prepares a clean workspace for the next run.
 * [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces)
 
 ---
-
-Would you like me to add a **badge-style header** (e.g., Hadoop version, Java version, environment badges) at the top of the README to make it look even more professional on GitHub?
-```
